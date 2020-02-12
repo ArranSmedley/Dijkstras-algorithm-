@@ -1,7 +1,7 @@
 @echo off
 set STARTTIME=%TIME%
 
-FindCaveRoute\FindCaveRoute\bin\Debug\FindCaveRoute.exe %1
+FindCaveRoute\bin\Debug\FindCaveRoute.exe %1
 
 
 set ENDTIME=%TIME%
