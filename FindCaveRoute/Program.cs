@@ -1,4 +1,8 @@
-﻿//Developed by Arran Smedley //40406581
+﻿///////////////Attribution Notice:////////////////////
+///This program was written by Arran Smedley, 2019/////
+///Contact at ArranSmedleyWork@gmail.com///////////////////
+///Intended for educational use.//////////////////////
+//////////////////////////////////////////////////////
 
 using System;
 using System.Collections.Generic;
